@@ -1,0 +1,126 @@
+RTU COURSE INFORMATION — SyllabusPilot
+Collected: 2026-11-02
+Student programme: Computer Systems (ADBD0), year 2, group 4.
+Time zone: Europe/Riga.
+This is a partial, manually collected snapshot, not a live connection.
+Missing information means unknown, not zero.
+Do not treat every listed activity as graded.
+Do not assume past deadlines mean work was not submitted.
+
+PROGRAMMING LANGUAGES — DE0917
+Grading:
+- Semester grade = (Lab1 + Lab2 + Lab3 + Test1) / 4.
+- Final grade = semester grade * 70% + exam grade * 30%.
+- Thus each of the three graded labs and the test contributes 17.5%.
+- Semester grade and exam grade must each be at least 4.
+- Attendance must be at least 75%.
+- January exam: exact date not yet verified.
+
+Requirements presentation lists:
+- Graded lab milestones: October 12, November 16, December 14, 2026.
+- Semester test: November 16, 2026.
+- Times and mapping of these milestones to assignment pages unverified.
+
+Python practice labs:
+- Python Labs 1 and 2 do not directly affect the final grade.
+- Both require at least 1/10 to unlock the Python graded lab.
+- Group 4 timetable shows Monday labs, 12:30–14:05.
+- Course announcement: Monday groups must finish both practice labs
+  by November 7, 2026 at 23:59.
+- Conflicting assignment dates: Python Lab 1 shows November 1, 23:59;
+  Python Lab 2 shows November 9, 23:59.
+- Use November 7 as a provisional planning target for the announcement,
+  but preserve the conflict and recommend instructor clarification.
+- Do not confuse Python practice labs with the three graded labs.
+
+Sources:
+https://estudijas.rtu.lv/course/view.php?id=1039790
+https://estudijas.rtu.lv/mod/resource/view.php?id=6739382
+
+BASICS OF COMPUTER CONTROL — DE0034
+- Tests: 30% total.
+- Individual assignments: 30% total.
+- Exam OR successful study project: 40%.
+- Short classroom tests and three major tests are mentioned.
+- Small assignments and three major assignments are mentioned.
+- Individual item weights and deadlines have not been verified.
+- Practical assignments are hosted in Google Classroom;
+  their contents have not yet been inspected.
+
+Sources:
+https://estudijas.rtu.lv/course/view.php?id=1039109
+https://estudijas.rtu.lv/mod/resource/view.php?id=6899261
+
+DISCRETE STRUCTURES — DE0133
+- Midterm: November 6, 2026 at 10:15.
+- Midterm topics: relations, relational algebra, mappings and graphs.
+- No materials allowed during the midterm.
+- Practical work 4: November 13, 2026 at 10:15.
+- Practical work 4 topics: cut vertices, cut edges, Dijkstra's algorithm.
+- Earlier practical works: September 18, October 9, October 23,
+  each at 10:15.
+- Grading weights and remaining assessments not yet verified.
+- A requirements PDF is available but has not yet been read.
+
+Source:
+https://estudijas.rtu.lv/course/view.php?id=1039179
+
+OPERATING SYSTEMS — DE0013
+- Practical 3 submission page lists November 2, 2026 at 00:00.
+  This deadline has passed; submission status has not been checked.
+- Practical 3a submission: November 7, 2026 at 00:00.
+  This means midnight at the START of Saturday.
+  Plan to finish before the end of Friday, November 6.
+- A separate November 18 Practical 3 deadline is restricted to other
+  listed groups; do not apply it to group 4.
+- Knowledge Test 2 is mentioned for November 2–8,
+  but its exact time and availability have not been verified.
+- Practical evaluation criteria PDF exists but has not yet been read.
+- Grading weights not yet verified.
+
+Source:
+https://estudijas.rtu.lv/course/view.php?id=1039079
+
+NUMERICAL METHODS — DE0278
+- Final exam: 45%.
+- Three tests together: 40%, with their average used.
+- DigComp: 10%.
+- HPC task: 5%.
+- Exact assessment deadlines have not yet been verified.
+- Course page says online tests cannot be retaken.
+- Keep task names DigComp and HPC as written until requirements are read.
+
+Source:
+https://estudijas.rtu.lv/course/section.php?id=2940974
+
+FUNDAMENTALS OF COMPUTER SIMULATION AND MODELLING — DE0136
+- In-class tests section lists Lecture 10, November 3, 2026.
+- Personal timetable places that day's lecture at 12:30–14:05;
+  the exact test start time has not been independently confirmed.
+- Four practical assignments and report submission links are visible.
+- Grading rules PDF exists but has not yet been read.
+- Optional makeup labs for missed sessions:
+  November 4, 11, 25 and December 2, 16:30–19:50.
+  Do not assume the student needs these sessions.
+- Weights and report deadlines not yet verified.
+
+Source:
+https://estudijas.rtu.lv/course/view.php?id=1039188
+
+PHYSICS II — DA0101
+- Course page and schedule links located.
+- Assessment requirements, weights and deadlines not yet verified.
+
+Source:
+https://estudijas.rtu.lv/course/view.php?id=1038964
+
+PERSONAL TIMETABLE SOURCE
+https://ortus.rtu.lv/f/u108l1s329/normal/render.uP
+
+PLANNING RULES
+Ask for weekly study hours and preferred times before scheduling.
+Keep group-specific deadlines and source conflicts visible.
+Include mandatory ungraded prerequisites in the study plan.
+Do not invent missing deadlines or grading weights.
+This file does not contain a complete class timetable.
+Do not claim ORTUS or Google Calendar is connected automatically.
